@@ -1,6 +1,6 @@
 chart:
-  name: redhat-developer-hub
-  shortDescription: A Helm chart for deploying Red Hat Developer Hub
+  name: redhat-developer-hub-must-gather
+  shortDescription: A Helm chart for running the Red Hat Developer Hub Must Gather tool
 publicPgpKey: null
 users:
   - githubUsername: rhdh-bot
